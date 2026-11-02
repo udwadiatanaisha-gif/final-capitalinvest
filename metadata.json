@@ -1,0 +1,6 @@
+{
+  "name": "CapitalVest - Wealth Management Command Centre",
+  "description": "A modern wealth management command centre helping financial advisors manage client relationships, monitor portfolios, track financial goals, evaluate financial health, and generate professional financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
